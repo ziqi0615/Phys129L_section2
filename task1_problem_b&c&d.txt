@@ -1,0 +1,5 @@
+Among them, the fastest is Quickhull, followed by Graham Scan, Monotone Chain, and finally Jarvis March, which is the slowest.
+
+The trend of time complexity and the relative efficiency of the different algorithms remain consistent, regardless of changes in the spread of the point cloud.
+
+All of the algorithms exhibit a distribution that is largely bell-shaped, with a skew toward lower values. However, their distributions are still a little bit different
